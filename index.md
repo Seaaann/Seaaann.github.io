@@ -14,12 +14,13 @@ I an a second year Ph.D student in **Economics** at Swedish University of Agricu
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
+- **Sep 2022 - present:** Swedish University of Agricultural Sciences, Sweden -- Ph.D in Forest Economics
+- **Sep 2019 - Aug 2021:** University of Groningen, Netherland -- Research Master in Econometrics
+- **Sep 2016 - Dec 2017:** Trinity College Dublin, Ireland -- Msc. in Financial Rish Management
+- **Sep 2012 - Jun 2016:** Sichuan Agriculture University -- Bsc. in Economics
+<!-- - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance) -->
 
 <br>
 
@@ -27,9 +28,9 @@ I an a second year Ph.D student in **Economics** at Swedish University of Agricu
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Environmental Economics
+- Econometric and OR Methologies (currently into DEA and SFA)
+- Machine learning application in Economics
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 

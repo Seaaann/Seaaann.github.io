@@ -18,7 +18,7 @@ I an a second year Ph.D student in **Economics** at Swedish University of Agricu
 
 - **Sep 2022 - present:** Swedish University of Agricultural Sciences, Sweden -- Ph.D in Forest Economics
 - **Sep 2019 - Aug 2021:** University of Groningen, Netherland -- Research Master in Econometrics
-- **Sep 2016 - Dec 2017:** Trinity College Dublin, Ireland -- Msc. in Financial Rish Management
+- **Sep 2016 - Dec 2017:** Trinity College Dublin, Ireland -- Msc. in Financial Risk Management
 - **Sep 2012 - Jun 2016:** Sichuan Agriculture University -- Bsc. in Economics
 <!-- - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance) -->
 

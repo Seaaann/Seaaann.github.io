@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shuyi Wang (Sean, [王术屹](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I an a second year Ph.D student in **Economics** at Swedish University of Agricultural Sciences (Uppsala, Umeå). I am currently working on evaluating the trade-offs between ecosystem services in boreal forests. It has been a great pleasure to work with [Prof. Dr. Tommy Lundgren](https://scholar.google.com/citations?user=-1JnQagAAAAJ&hl=en), who is my supervisor and also the chair of [CERE (Center for Environmental and Resource Economics)](https://www.cere.se/en/start-english/). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 <br>
 

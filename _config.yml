@@ -11,7 +11,7 @@ owner:
 #  bio:
   email: shuyi.wang@slu.se
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: Shuyi(Sean) Wang
+  twitter: Shuyi(Sean)Wang
   # facebook: caihanlin2002
   github: Seaaann
   linkedin: shuyi-sean-wang
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/Resume-HanlinCAI.pdf
+    url: /file/CV.pdf
   - title: Publications
     url: /publications/
   - title: Projects
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: shuyi
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

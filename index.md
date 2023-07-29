@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://seaaann.github.io/ShuyiWang.jpeg" class="floatpic" width="360" height="480">
 
-Here is **Shuyi Wang (Sean, [王术屹](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Shuyi Wang (Sean, [王术屹](https://seaaann.github.io/file/CV.pdf))**.
 
-I an a second year Ph.D student in **Economics** at Swedish University of Agricultural Sciences (Uppsala, Umeå). I am currently working on evaluating the trade-offs between ecosystem services in boreal forests. It has been a great pleasure to work with [Prof. Dr. Tommy Lundgren](https://scholar.google.com/citations?user=-1JnQagAAAAJ&hl=en), who is my supervisor and also the chair of [CERE (Center for Environmental and Resource Economics)](https://www.cere.se/en/start-english/). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I an a second year Ph.D student in **Economics** at Swedish University of Agricultural Sciences (Uppsala, Umeå). I am currently working on evaluating the trade-offs between ecosystem services in boreal forests. It has been a great pleasure to work with [Prof. Dr. Tommy Lundgren](https://scholar.google.com/citations?user=-1JnQagAAAAJ&hl=en), who is my supervisor and also the chair of [CERE (Center for Environmental and Resource Economics)](https://www.cere.se/en/start-english/). Here is [my Resume](https://seaaann.github.io/file/CV.pdf).
 
 <br>
 

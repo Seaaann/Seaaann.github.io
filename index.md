@@ -29,10 +29,10 @@ I an a second year Ph.D student in **Economics** at Swedish University of Agricu
 ## Research Interests
 
 - Environmental Economics
+- ESG
 - Econometric and OR Methologies (currently into DEA and SFA)
 - Machine learning application in Economics
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
@@ -40,12 +40,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **Jun 2023：**Attended 29th Ulvön Conference on Environmental Economics [link](https://www.cere.se/en/cere_events/the-ulvo-conference-2023/)
+
 
 <br>

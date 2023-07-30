@@ -15,7 +15,7 @@ Lastest Update: 30th July 2023&nbsp;
 
 ## Conference Paper
 
-- [Using Production Economics Approaches to Evaluate Ecosystem Trade-offs in Boreal Forests: A Review](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Shuyi Wang**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>29th Ulvön Conference onEnvironmental Economics<br>20th-22nd of June, 2023, Ulvön, Sweden.[Slides](https://seaaann.github.io/mypaper/slides/Beamer_trade_offs.pdf).
+- [Using Production Economics Approaches to Evaluate Ecosystem Trade-offs in Boreal Forests: A Review](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Shuyi Wang**, Shuyi Wang, Tommy Lundgren<br>29th Ulvön Conference on Environmental Economics [link](https://www.cere.se/en/cere_events/the-ulvo-conference-2023/)<br>20th-22nd of June, 2023, Ulvön, Sweden.[Slides](https://seaaann.github.io/mypaper/slides/Beamer_trade_offs.pdf).
 
 ---
 

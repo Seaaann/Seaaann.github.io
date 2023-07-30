@@ -6,11 +6,12 @@ title: Publications
 
 # Publications
 
-Lastest Update: 23rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 30th July 2023&nbsp; 
 
-## Undergrad Thesis
+## Graduate Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
+- [The Dynamic Influence of Stock Future CNA 50 on Stock Index in 2015 Stock Market Crash: Based on VAR Model](https://seaann.github.io/mypaper/thesis/Trinity_Thesis.pdf)<br>**Shuyi Wang** (Supervisor: Prof. Dr. [Taufiq Choudhry](https://www.southampton.ac.uk/people/5x2h9c/professor-taufiq-choudhry))
+- [A Modiﬁed Parametric Approach for Portfolio Optimization Problem](https://seaann.github.io/mypaper/thesis/SWang_RM_Thesis.pdf)<br>**Shuyi Wang** (Supervisor: Prof. Dr. [Lammertjan Dam](https://www.rug.nl/staff/l.dam/?lang=en))
 
 ## Conference Paper
 

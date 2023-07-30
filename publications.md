@@ -10,14 +10,12 @@ Lastest Update: 30th July 2023&nbsp;
 
 ## Graduate Thesis
 
-- [The Dynamic Influence of Stock Future CNA 50 on Stock Index in 2015 Stock Market Crash: Based on VAR Model](https://seaann.github.io/mypaper/thesis/Trinity_Thesis.pdf)<br>**Shuyi Wang** (Supervisor: Prof. Dr. [Taufiq Choudhry](https://www.southampton.ac.uk/people/5x2h9c/professor-taufiq-choudhry))
-- [A Modiﬁed Parametric Approach for Portfolio Optimization Problem](https://seaann.github.io/mypaper/thesis/SWang_RM_Thesis.pdf)<br>**Shuyi Wang** (Supervisor: Prof. Dr. [Lammertjan Dam](https://www.rug.nl/staff/l.dam/?lang=en))
+- [The Dynamic Influence of Stock Future CNA 50 on Stock Index in 2015 Stock Market Crash: Based on VAR Model](https://seaaann.github.io/mypaper/thesis/Trinity_Thesis.pdf)<br>**Shuyi Wang** (Supervisor: Prof. Dr. [Taufiq Choudhry](https://www.southampton.ac.uk/people/5x2h9c/professor-taufiq-choudhry))
+- [A Modiﬁed Parametric Approach for Portfolio Optimization Problem](https://seaaann.github.io/mypaper/thesis/SWang_RM_Thesis.pdf)<br>**Shuyi Wang** (Supervisor: Prof. Dr. [Lammertjan Dam](https://www.rug.nl/staff/l.dam/?lang=en))
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- [Using Production Economics Approaches to Evaluate Ecosystem Trade-offs in Boreal Forests: A Review](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Shuyi Wang**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>29th Ulvön Conference onEnvironmental Economics<br>20th-22nd of June, 2023, Ulvön, Sweden.[Slides](https://seaaann.github.io/mypaper/slides/Beamer_trade_offs.pdf).
 
 ---
 

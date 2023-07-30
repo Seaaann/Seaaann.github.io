@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese
+
 
 My name is **Shuyi Wang (Sean, 王术屹)**. Here is my personal website. Thanks to **Hanlin Cai**, from whom I forked his repository.
 

@@ -32,6 +32,9 @@ I an a second year Ph.D student in **Economics** at Swedish University of Agricu
 - ESG
 - Econometric and OR Methologies (currently into DEA and SFA)
 - Machine learning application in Economics
+- Microeconometrics and Marcoeconometrics
+- Macro finance, and Growth theory
+- Political economics
 
 
 <br>

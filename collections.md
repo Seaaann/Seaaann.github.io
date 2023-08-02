@@ -25,11 +25,14 @@ title: Collections
 - [Basic Econometrics](https://seaaann.github.io/file/collections/Basics/basic.pdf)
 - [Fundations of Econometrics, Part 1](https://seaaann.github.io/file/collections/Basics/Ectsbook.pdf)
 - [Fundations of Econometrics, Part 2](https://seaaann.github.io/file/collections/Basics/EctsPart2book.pdf)
+- [Financial Econometrics Notes](https://seaaann.github.io/file/collections/Basics/financial-econometrics-2020-2021.pdf)
 
 
 ## Econometrics Advanced
 - [Generalized method of moments](https://seaaann.github.io/file/collections/Advanced/Generalized_method_of_moments.pdf)
 - [Econometrics(Fumio Hayashi)](https://seaaann.github.io/file/collections/Advanced/Fumio_Hayashi_Econometrics.pdf)
+- [Lecture Notes on ADVANCED ECONOMETRICS](https://seaaann.github.io/file/collections/Advanced/ADVANCED_ECONOMETRICS.pdf)
+- [Advanced statistical inference](https://seaaann.github.io/file/collections/Advanced/STAT613.pdf)
 
 ## Operational Research
 
@@ -40,19 +43,25 @@ title: Collections
 
 - [Stata Cheat Sheets](https://seaaann.github.io/file/collections/Applications/statacheatsheets.pdf)
 - [Microeconometrics Using Stata](https://seaaann.github.io/file/collections/Applications/Microeconometrics_Using_Stata.pdf)
+- [Lecture Notes on ADVANCED ECONOMETRICS](https://seaaann.github.io/file/collections/Applications/Microeconometrics_Using_Stata.pdf)
+- [Microeconometrics - Methods and Applications](https://seaaann.github.io/file/collections/Applications/Microeconometrics_Methods_and_Applications.pdf)
 
 ## Machine Learning
 
 - [Econometrics & Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/Machine_Learning_and_Econometrics_EF.pdf)
 - [Exercises in Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/2206_13446.pdf)
+- [Financial Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/w31502.pdf)
 
 ## Other Topics
 - [Lagged Variables as Instruments](https://seaaann.github.io/file/collections/others/WangBellemareLaggedIVsMay2019.pdf)
 - [Decision Theory](https://seaaann.github.io/file/collections/others/econ722slides.pdf)
 - [Algorithms for Decision Making](https://seaaann.github.io/file/collections/others/dm.pdf)
 - [gmm](https://seaaann.github.io/file/collections/others/gmm.pdf)
-
-
+- [Dynamic Factor Models](https://seaaann.github.io/file/collections/others/Stock_Watson_HOM_Vol2.pdf)
+- [Causal Inference: Measuring the Effect of X on y](https://seaaann.github.io/file/collections/others/cimexy.pdf)
+- [Causal inference with observational data](https://seaaann.github.io/file/collections/others/dc09_nichols.pdf)
+- [Instrumental variables and GMM](https://seaaann.github.io/file/collections/others/ivreg2_bcwp545.pdf)
+- [Essentials of Stochastic Processes](https://seaaann.github.io/file/collections/others/EOSP2021.pdf)
 
 
 <!-- ## Chat with me -->

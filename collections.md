@@ -23,10 +23,13 @@ title: Collections
 - [Lecture Notes in Econometrics for Finance](https://seaaann.github.io/file/collections/Basics/EcmtFinAll.pdf)
 - [Linear Algebra](https://seaaann.github.io/file/collections/Basics/linear-algebra-notes.pdf)
 - [Basic Econometrics](https://seaaann.github.io/file/collections/Basics/basic.pdf)
+- [Fundations of Econometrics, Part 1](https://seaaann.github.io/file/collections/Basics/Ectsbook.pdf)
+- [Fundations of Econometrics, Part 2](https://seaaann.github.io/file/collections/Basics/EctsPart2book.pdf)
+
 
 ## Econometrics Advanced
 - [Generalized method of moments](https://seaaann.github.io/file/collections/Advanced/Generalized_method_of_moments.pdf)
-- []
+- [Econometrics(Fumio Hayashi)](https://seaaann.github.io/file/collections/Advanced/Fumio_Hayashi_Econometrics.pdf)
 
 ## Operational Research
 
@@ -40,6 +43,7 @@ title: Collections
 
 ## Machine Learning
 
+- [Econometrics & Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/Machine_Learning_and_Econometrics_EF.pdf)
 - [Exercises in Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/2206_13446.pdf)
 
 ## Other Topics

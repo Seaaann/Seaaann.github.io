@@ -16,6 +16,12 @@ title: Collections
 - [Basic Financial Econometrics](https://seaaann.github.io/file/collections/Basics/Basic_Financial_Econometrics.pdf)
 
 
+## Applications
+
+- [Stata Cheat Sheets](https://seaaann.github.io/file/collections/Applications/statacheatsheets.pdf)
+- [Microeconometrics Using Stata](https://seaaann.github.io/file/collections/Applications/Microeconometrics_Using_Stata.pdf)
+
+
 ## Other Topics
 - [Lagged Variables as Instruments](https://seaaann.github.io/file/collections/others/WangBellemareLaggedIVsMay2019.pdf)
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Collections/index.html
+permalink: /collections/index.html
 title: Collections
 ---
 

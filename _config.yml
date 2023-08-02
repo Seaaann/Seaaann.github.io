@@ -39,13 +39,13 @@ links:
   - title: Publications
     url: /publications/
   - title: Projects
-    url: /projects/
+    url: /
   - title: Awards
-    url: /awards/
+    url: /
   - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+    url: /
+  - title: Collections
+    url: /collections/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

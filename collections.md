@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /Collections/index.html
+title: Collections
 ---
 
-# Hobbies
+# Collections
 
 ## Teaching & Workshops
 

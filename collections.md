@@ -6,17 +6,16 @@ title: Collections
 
 # Collections
 
-## Teaching & Workshops
+<br>I have been collecting studying resources widely (from the internet), mostly about mathematics, econometrics, machine learning and associated applications in economics. The files ranges from basic to advanced levels. I hope to share the files and save some local space.
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+
+## Econometrics Basics
+
+[EconBasic Notes](https://seaaann.github.io/file/collections/Basics/econ372lec1.pdf)
+[Mostly Harmless Econometrics: An Empiricistís Companion](https://seaaann.github.io/file/collections/Basics/Angrist&Pischke.pdf)
+
+
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
-
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
 
 
 

@@ -2991,10 +2991,3 @@ screen and (max-height:300px) {
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {}
-
-@import url("https://www.zhihu.com/assets/zhihu/ztext.css");
-
-.zh-icon {
-    font-family: 'ztext';
-    font-weight: bold;
-}

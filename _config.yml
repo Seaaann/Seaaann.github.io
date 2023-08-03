@@ -39,8 +39,8 @@ links:
     url: /file/CV.pdf
   - title: Publications
     url: /publications/
-  # - title: Projects
-  #   url: /
+  - title: Notes
+    url: /notes/
   # - title: Awards
   #   url: /
   # - title: Hobbies

@@ -12,7 +12,7 @@ title: Notes
 Data envelopment analysis (DEA) is a nonparametric method in operations research and economics for the estimation of production frontiers[^1].
 
 ```python
-    for i in range(len(data)):
+for i in range(len(data)):
     c = np.zeros((len(data)+1))
     c[-1] = 1
     output = np.append(data.q.values,[0])

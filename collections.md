@@ -63,6 +63,10 @@ title: Collections
 - [Instrumental variables and GMM](https://seaaann.github.io/file/collections/others/ivreg2_bcwp545.pdf)
 - [Essentials of Stochastic Processes](https://seaaann.github.io/file/collections/others/EOSP2021.pdf)
 
+## Links
+- [ECONOMICS 620 Professor N. M. Kiefer](https://courses.cit.cornell.edu/econ620/620lect.htm)
+
+
 
 <!-- ## Chat with me -->
 

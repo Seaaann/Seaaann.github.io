@@ -66,6 +66,7 @@ title: Collections
 ## Links
 - [ECONOMICS 620 Professor N. M. Kiefer](https://courses.cit.cornell.edu/econ620/620lect.htm)
 - [Causal Inference: The Mixtape by Scott Cunningham](https://mixtape.scunning.com/)
+- [最优化：建模、算法与理论/最优化计算方法](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html)
 
 
 

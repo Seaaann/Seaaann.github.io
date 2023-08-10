@@ -14,6 +14,7 @@ title: Collections
 - [Probability and Measure](https://seaaann.github.io/file/collections/Probability/pm.pdf)
 - [Probability: Theory and Examples](https://seaaann.github.io/file/collections/Probability/PTE5_011119.pdf)
 - [Advanced Probability](https://seaaann.github.io/file/collections/Probability/ap.pdf)
+- [A Modern Introduction to Probability and Statistics](https://seaaann.github.io/file/collections/Probability/A_Modern_Introduction_to_Probability_and.pdf)
 
 ## Econometrics Basics
 
@@ -51,6 +52,7 @@ title: Collections
 - [Econometrics & Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/Machine_Learning_and_Econometrics_EF.pdf)
 - [Exercises in Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/2206_13446.pdf)
 - [Financial Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/w31502.pdf)
+- [Mathematics for Machine Learning](https://seaaann.github.io/file/collections/MachineLearning/mml-book.pdf)
 
 ## Other Topics
 - [Lagged Variables as Instruments](https://seaaann.github.io/file/collections/others/WangBellemareLaggedIVsMay2019.pdf)

@@ -40,3 +40,7 @@ Data envelopment analysis (DEA) is a nonparametric method in operations research
 The first paper specifies the SFA. [ALS1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf). Aother paper, [BCC1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf) proposes an improved parameterization of the ratio of the variance of the two errors. This improves the estimation efficiency. However, two studies only bring out the inefficiency with given frontier, with no mentioning of how to separate the composited error term (of random noise and technology inefficiency).
 
 [Jondrow1982](https://Seaaann.github.io/notes/Reference/jondrow1982.pdf) sugggests a solution on estimating expected value of inefficiency term, conditioned on the compsited error.
+
+[Pitt1981](https://Seaaann.github.io/notes/Reference/pitt1981.pdf) extends the frontier modeling to panel data. It should be first paper that defines the inefficiency is a time-invariant term, like a random effect model. Differences are the inefficiency term is truncated normal distribution.
+
+

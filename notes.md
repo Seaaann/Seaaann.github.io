@@ -37,12 +37,6 @@ Data envelopment analysis (DEA) is a nonparametric method in operations research
 
 ### Stochastic Frontier Modeling (or Analysis, SFM or SFA)
 #### History:
-The first paper specifies the SFA. [ALS1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf)
-- It proposes a new stochastic frontier production function model where the error term has two components: a symmetric error to capture noise, and a one-sided error to represent inefficiency.
-- The one-sided error is modeled as being half-normal or exponentially distributed to capture technical inefficiency.
-Maximum likelihood estimation is used to estimate the model parameters along with the variances of the two error components.
-- Monte Carlo simulations show the model performs reasonably well in recovering true parameters, though some bias exists.
-- Empirical examples on US manufacturing and agriculture data find the symmetric error dominates, implying high efficiency relative to the stochastic frontier.
-- The model allows direct estimation of the two error variances, giving information on their relative magnitude.
-- It avoids some issues with previous deterministic frontier models, and provides a stochastic frontier with statistical properties.
-- Key limitations are computational complexity and some remaining small sample bias.
+The first paper specifies the SFA. [ALS1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf). Aother paper, [BCC1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf) proposes an improved parameterization of the ratio of the variance of the two errors. This improves the estimation efficiency. However, two studies only bring out the inefficiency with given frontier, with no mentioning of how to separate the composited error term (of random noise and technology inefficiency).
+
+[Jondrow1982](https://Seaaann.github.io/notes/Reference/jondrow1982.pdf) sugggests a solution on estimating expected value of inefficiency term, conditioned on the compsited error.

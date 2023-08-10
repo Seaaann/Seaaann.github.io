@@ -71,8 +71,9 @@ title: Collections
 - [最优化：建模、算法与理论/最优化计算方法](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html)
 - [Metrix Notes by Peter Hull](https://about.peterhull.net/metrix)
 
-
-
+#### Academic Writing
+- [Writing Tips for Ph. D. Students](https://Seaaann.github.io/file/collections/Academicwriting/Academic-Phrasebank-Navigable-PDF-2021.pdf)
+- [Academic Phrasebank](https://Seaaann.github.io/file/collections/Academicwriting/Academic-Phrasebank-Navigable-PDF-2021.pdf)
 <!-- ## Chat with me -->
 
 <!-- **Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me! -->

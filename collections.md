@@ -74,6 +74,9 @@ title: Collections
 #### Academic Writing
 - [Writing Tips for Ph. D. Students](https://Seaaann.github.io/file/collections/Academicwriting/Academic-Phrasebank-Navigable-PDF-2021.pdf)
 - [Academic Phrasebank](https://Seaaann.github.io/file/collections/Academicwriting/Academic-Phrasebank-Navigable-PDF-2021.pdf)
+- [Writing Tips for Economics Research Papers](https://Seaaann.github.io/file/collections/Academicwriting/dp15057.pdf)
+
+
 <!-- ## Chat with me -->
 
 <!-- **Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me! -->

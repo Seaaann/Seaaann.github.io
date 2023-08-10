@@ -38,6 +38,7 @@ title: Collections
 ## Operational Research
 
 - [Numerical Optimization](https://seaaann.github.io/file/collections/OR/num_optimization.pdf)
+- [Operational Research by Winston Wayne](https://seaaann.github.io/file/collections/OR/Operational_Research_Winston_Wayne.pdf)
 
 
 ## Applications

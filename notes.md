@@ -37,10 +37,12 @@ Data envelopment analysis (DEA) is a nonparametric method in operations research
 
 ### Stochastic Frontier Modeling (or Analysis, SFM or SFA)
 #### History:
-The first paper specifies the SFA. [ALS1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf). Aother paper, [BCC1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf) proposes an improved parameterization of the ratio of the variance of the two errors. This improves the estimation efficiency. However, two studies only bring out the inefficiency with given frontier, with no mentioning of how to separate the composited error term (of random noise and technology inefficiency).
-
-[Jondrow1982](https://Seaaann.github.io/notes/Reference/jondrow1982.pdf) sugggests a solution on estimating expected value of inefficiency term, conditioned on the compsited error.
-
-[Pitt1981](https://Seaaann.github.io/notes/Reference/pitt1981.pdf) extends the frontier modeling to panel data. It should be first paper that defines the inefficiency is a time-invariant term, like a random effect model. Differences are the inefficiency term is truncated normal distribution.
-
-
+  1. The first paper specifies the SFA. [ALS1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf). Aother paper, [BCC1977](https://Seaaann.github.io/notes/Reference/ALS1977.pdf) proposes an improved parameterization of the ratio of the variance of the two errors. This improves the estimation efficiency. However, two studies only bring out the inefficiency with given frontier, with no mentioning of how to separate the composited error term (of random noise and technology inefficiency). [Stevenson1980](https://Seaaann.github.io/notes/Reference/stevenson1980.pdf) propose truncated normal and gamma distributions for inefficiency.
+  2. [Jondrow1982](https://Seaaann.github.io/notes/Reference/jondrow1982.pdf) sugggests a solution on estimating expected value of inefficiency term, conditioned on the compsited error $\exp(\mathbb{E}(-u|\epsilon))$.
+  3. [Pitt1981](https://Seaaann.github.io/notes/Reference/pitt1981.pdf) extends the frontier modeling to panel data. It should be first paper that defines the inefficiency is a time-invariant term, like a random effect model. Differences are the inefficiency term is truncated normal distribution. In a case of fixed effect model, [SS1984](https://Seaaann.github.io/notes/Reference/schmidt1984.pdf) discuss the inefficiency term should be changing over time. It should be unit-specific.
+  4. [BC1988](https://Seaaann.github.io/notes/Reference/battese1988.pdf) suggest to use $\mathbb{E}(\exp(-u)|\epsilon)$ to estimate inefficiency term.
+  5. [BC1992](https://Seaaann.github.io/notes/Reference/battese1992.pdf) propose time-variant inefficiency term. Several papers specify the term, see [kumbhakar1990](https://Seaaann.github.io/notes/Reference/kumbhakar1990.pdf), [CSS1990](https://Seaaann.github.io/notes/Reference/cornwell1990.pdf).
+  6. [BC1995](https://Seaaann.github.io/notes/Reference/battese1995.pdf) assumes that inefficiency term is a function of firm-specific variables and time. The model accounts for some heterogeneity.
+  7. [Greene2003](https://Seaaann.github.io/notes/Reference/greene2003.pdf) propose maximum simulated likelihood estimation since the log-likelihood function of inefficiency is complex. 
+  8. [Greene2005](https://Seaaann.github.io/notes/Reference/greene2005.pdf) propose true fixed effect model to describe time-variant inefficiency and firm heterogeneity. [Greene2005](https://Seaaann.github.io/notes/Reference/greene2005r.pdf) propose true random effect model.
+  9. [Wang2010](https://Seaaann.github.io/notes/Reference/wang2010.pdf) propose a new method to avoid *incidental parameters problem*. The study suggests to delete the individual effect.

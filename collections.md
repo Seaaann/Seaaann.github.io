@@ -40,6 +40,8 @@ title: Collections
 - [Numerical Optimization](https://seaaann.github.io/file/collections/OR/num_optimization.pdf)
 - [Operational Research by Winston Wayne](https://seaaann.github.io/file/collections/OR/Operational_Research_Winston_Wayne.pdf)
 - [Linear Programming](https://seaaann.github.io/file/collections/OR/Linear_Programming.pdf)
+- [Introduction to Linear Optimization and Extension with MATLAB](https://seaaann.github.io/file/collections/OR/Linear_Optimization.pdf)
+- [Data Envelopment Analysis for Economics and Operational Research](https://seaaann.github.io/file/collections/OR/DEA_economics.pdf)
 
 
 ## Applications

@@ -75,6 +75,7 @@ title: Collections
 - [Causal Inference: The Mixtape by Scott Cunningham](https://mixtape.scunning.com/)
 - [最优化：建模、算法与理论/最优化计算方法](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html)
 - [Metrix Notes by Peter Hull](https://about.peterhull.net/metrix)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 
 #### Academic Writing
 - [Writing Tips for Ph. D. Students](https://Seaaann.github.io/file/collections/Academicwriting/Academic-Phrasebank-Navigable-PDF-2021.pdf)

@@ -30,7 +30,7 @@ Data envelopment analysis (DEA) is a nonparametric method in operations research
 
 My note on implementing DEA and Radial Directional Distance function in Python:
 
-[DEA in Python](https://nbviewer.org/github/Seaaann/Seaaann.github.io/blob/main/notes/DEA.ipynb)
+- [DEA in Python](https://nbviewer.org/github/Seaaann/Seaaann.github.io/blob/main/notes/DEA.ipynb)
 
 
 [^1]: [Data envelopment analysis](https://en.wikipedia.org/wiki/Data_envelopment_analysis)

@@ -34,6 +34,9 @@ Data envelopment analysis (DEA) is a nonparametric method in operations research
 
 [^1]: [Data envelopment analysis](https://en.wikipedia.org/wiki/Data_envelopment_analysis)
 
+My note on implementing DEA and Radial Directional Distance function in Python:
+
+
 
 ### Stochastic Frontier Modeling (or Analysis, SFM or SFA)
 #### History:

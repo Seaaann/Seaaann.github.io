@@ -6,7 +6,7 @@ title: Collections
 
 # Collections
 
-<br>I have been collecting studying resources widely (from the internet), mostly about mathematics, econometrics, machine learning and associated applications in economics. The files ranges from basic to advanced levels. I hope to share the files and save some local space.
+<br>I have been collecting studying resources widely (from the internet), mostly about mathematics, econometrics, machine learning and associated applications in economics. The files range from basic to advanced levels. I hope to share the files and save some my local space[\doge].
 
 ## Probability Theory
 

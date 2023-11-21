@@ -27,7 +27,8 @@ So in summary:
 ## Methodology
 ### Data Envelopment Analysis (DEA)
 Data envelopment analysis (DEA) is a nonparametric method in operations research and economics for the estimation of production frontiers[^1].
-My note on implementing DEA and Radial Directional Distance function in Python: [DEA in Python](https://nbviewer.org/github/Seaaann/Seaaann.github.io/blob/main/notes/DEA.ipynb)
+My note on implementing DEA and Radial Directional Distance function in Python: 
+- [DEA in Python](https://nbviewer.org/github/Seaaann/Seaaann.github.io/blob/main/notes/DEA.ipynb)
 A package for efficiency study using Python. I did not check if my codes show the same results as theirs. Hope someone can check.
 - [pyStoNED](https://pystoned.readthedocs.io/en/latest/index.html)
 I think they should speak to each other, since the DEA is simple (in some ways). I guess it is the solvers or their version causing the differences, if there are.
@@ -48,5 +49,7 @@ I think they should speak to each other, since the DEA is simple (in some ways).
   7. [Greene2003](https://Seaaann.github.io/notes/Reference/greene2003.pdf) propose maximum simulated likelihood estimation since the log-likelihood function of inefficiency is complex. 
   8. [Greene2005](https://Seaaann.github.io/notes/Reference/greene2005.pdf) propose true fixed effect model to describe time-variant inefficiency and firm heterogeneity. [Greene2005](https://Seaaann.github.io/notes/Reference/greene2005r.pdf) propose true random effect model.
   9. [Wang2010](https://Seaaann.github.io/notes/Reference/wang2010.pdf) propose a new method to avoid *incidental parameters problem*. The study suggests to delete the individual effect.
+
+
 
 A Review Paper on SFA. [Kumbhakar2017](https://Seaaann.github.io/notes/Reference/Kumbhakar_2017_SFA_Review.pdf)

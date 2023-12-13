@@ -43,6 +43,7 @@ I am a second year Ph.D student in **Economics** at Swedish University of Agricu
 
 ## News and Updates
 
+- **Dec 2023：**Attended and Presented at 2023 Vietnam Symposium in Climate Transition (VSCT-2023), [link](https://vsct2023.sciencesconf.org/)
 - **Jun 2023：**Attended 29th Ulvön Conference on Environmental Economics [link](https://www.cere.se/en/cere_events/the-ulvo-conference-2023/)
 
 

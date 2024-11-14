@@ -30,4 +30,5 @@ Lastest Update: 30th July 2023&nbsp;
 
 ## Working Manuscript
 
-- [Using Production Economics Approaches to Evaluate Ecosystem Trade-offs in Boreal Forests: A Review](https://caihanlin.com/mypaper/.pdf)<br>**Shuyi Wang**, Shuyi Wang, Tommy Lundgren
+- [Using Production Economics Approaches to Evaluate Ecosystem Trade-offs in Boreal Forests: A Review](https://www.sciencedirect.com/science/article/abs/pii/B9780323910132000666)<br>**Shuyi Wang**, Shuyi Wang, Moriah B. Bostian, Tommy Lundgren
+
